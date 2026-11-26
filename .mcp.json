@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bloggable": {
+      "type": "http",
+      "url": "https://getbloggable.com/api/mcp"
+    }
+  }
+}

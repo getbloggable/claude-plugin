@@ -1,0 +1,16 @@
+{
+  "name": "bloggable",
+  "description": "Bloggable's plugin for Claude.",
+  "owner": {
+    "name": "Bloggable",
+    "email": "hello@support.getbloggable.com",
+    "url": "https://getbloggable.com"
+  },
+  "plugins": [
+    {
+      "name": "bloggable",
+      "source": "./",
+      "description": "Set up and run a Bloggable blog from Claude: create a blog that matches your website, import your posts, plan topics, and write, edit and publish posts in your brand's voice with AI."
+    }
+  ]
+}

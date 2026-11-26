@@ -1,0 +1,27 @@
+{
+  "name": "bloggable",
+  "displayName": "Bloggable",
+  "version": "1.0.0",
+  "description": "Set up and run a Bloggable blog from Claude: create a blog that matches your website, import your posts, plan topics, and write, edit and publish posts in your brand's voice with AI.",
+  "author": {
+    "name": "Bloggable",
+    "email": "hello@support.getbloggable.com",
+    "url": "https://getbloggable.com"
+  },
+  "homepage": "https://getbloggable.com",
+  "repository": "https://github.com/getbloggable/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "blog",
+    "blogging",
+    "content-marketing",
+    "seo",
+    "writing",
+    "publishing"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://getbloggable.com/help/install-with-ai",
+  "supportUrl": "https://getbloggable.com/help",
+  "privacyPolicyUrl": "https://getbloggable.com/legal/privacy",
+  "termsOfServiceUrl": "https://getbloggable.com/legal/terms"
+}
