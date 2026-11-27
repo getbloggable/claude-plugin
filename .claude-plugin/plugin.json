@@ -1,7 +1,7 @@
 {
   "name": "bloggable",
   "displayName": "Bloggable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set up and run a Bloggable blog from Claude: create a blog that matches your website, import your posts, plan topics, and write, edit and publish posts in your brand's voice with AI.",
   "author": {
     "name": "Bloggable",
